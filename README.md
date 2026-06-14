@@ -53,6 +53,11 @@ The system continuously monitors motion within a room. When human movement is de
 - Alarm System Design
 - IoT Fundamentals
 
+## Demo Video
+
+<img width="438" height="250" alt="image" src="https://github.com/user-attachments/assets/7e5750d6-a3fd-4c92-aaea-b38873d1371e" />
+
+
 ## Author
 
 Kelsang Sherpa
